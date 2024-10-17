@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+  }
+  
+  .head {
+    display: flex;
+    flex-wrap: wrap; /* Enable wrapping */
+    justify-content: center; /* Space out items evenly */
+  }
