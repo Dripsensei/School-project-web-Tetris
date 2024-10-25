@@ -10,9 +10,3 @@ body {
 .head{
     color: rgba(75, 70, 24, 0.315);
 }
-.Grid {
-    display: grid;
-    grid-template-columns: auto auto; 
-    grid-column-gap: 100px; 
-    grid-row-gap: 100px; 
-  }
