@@ -8,5 +8,19 @@ body {
     justify-content: center;
   }
 .head{
-    color: rgba(75, 70, 24, 0.315);
+    color: rgba(75, 70, 24, 0.315); /* Adds colour */
+}
+ul li {
+  margin-bottom: 280px; /* creates space between the buttons */ 
+}
+
+ul {
+  list-style-type: none
+ 
+}
+ul li button {
+  font-size: 50px; /* This increases the font size */
+  padding: 15px 30px; /* Adds padding  */
+  width: 350px; /* Sets the width of the button */
+  cursor: pointer; /* Changes cursor to pointer */
 }
